@@ -1,0 +1,17 @@
+
+
+.depoimento{
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.carousel-inner{
+    width: 100%;
+    height: 32rem;
+}
+ .btn{
+    padding: 30px;
+
+ }
+ 
